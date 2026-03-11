@@ -1,0 +1,8 @@
+git init 
+conda create -p genai1 python=3.10 -y  
+
+conda activate ./genai1
+
+write setup.py
+
+pip install -r requirements.txt
